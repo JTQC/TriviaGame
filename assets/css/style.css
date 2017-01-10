@@ -1,0 +1,39 @@
+body {
+color: white;
+background-image: url('background.jpg')
+}
+
+.title {
+	color: yellow;
+	font-size-adjust: 99px;
+	text-decoration: underline;
+
+}
+
+.main {
+	
+	background-color: black;	
+	margin-left: 15;
+    margin-right: 60;
+    margin-top: auto;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+	
+}
+
+.guestbook {
+	float: right;
+}
+
+.album {
+	float: right;
+}
+
+.album2 {
+	float: right;
+}
+
+.notfound {
+	float: right;
+}
